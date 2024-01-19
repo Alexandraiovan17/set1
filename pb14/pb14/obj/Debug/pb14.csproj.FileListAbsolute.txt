@@ -1,0 +1,6 @@
+C:\Users\x\Documents\Set1\pb14\pb14\bin\Debug\pb14.exe.config
+C:\Users\x\Documents\Set1\pb14\pb14\bin\Debug\pb14.exe
+C:\Users\x\Documents\Set1\pb14\pb14\bin\Debug\pb14.pdb
+C:\Users\x\Documents\Set1\pb14\pb14\obj\Debug\pb14.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Set1\pb14\pb14\obj\Debug\pb14.exe
+C:\Users\x\Documents\Set1\pb14\pb14\obj\Debug\pb14.pdb

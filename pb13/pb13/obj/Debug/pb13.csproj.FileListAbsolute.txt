@@ -1,0 +1,6 @@
+C:\Users\x\Documents\Set1\pb13\pb13\bin\Debug\pb13.exe.config
+C:\Users\x\Documents\Set1\pb13\pb13\bin\Debug\pb13.exe
+C:\Users\x\Documents\Set1\pb13\pb13\bin\Debug\pb13.pdb
+C:\Users\x\Documents\Set1\pb13\pb13\obj\Debug\pb13.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Set1\pb13\pb13\obj\Debug\pb13.exe
+C:\Users\x\Documents\Set1\pb13\pb13\obj\Debug\pb13.pdb

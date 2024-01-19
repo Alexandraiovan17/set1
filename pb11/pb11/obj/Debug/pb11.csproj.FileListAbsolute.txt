@@ -1,0 +1,6 @@
+C:\Users\x\Documents\Set1\pb11\pb11\bin\Debug\pb11.exe.config
+C:\Users\x\Documents\Set1\pb11\pb11\bin\Debug\pb11.exe
+C:\Users\x\Documents\Set1\pb11\pb11\bin\Debug\pb11.pdb
+C:\Users\x\Documents\Set1\pb11\pb11\obj\Debug\pb11.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Set1\pb11\pb11\obj\Debug\pb11.exe
+C:\Users\x\Documents\Set1\pb11\pb11\obj\Debug\pb11.pdb
