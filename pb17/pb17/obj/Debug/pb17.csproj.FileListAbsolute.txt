@@ -1,0 +1,7 @@
+C:\Users\x\Documents\Set1\pb17\pb17\bin\Debug\pb17.exe.config
+C:\Users\x\Documents\Set1\pb17\pb17\bin\Debug\pb17.exe
+C:\Users\x\Documents\Set1\pb17\pb17\bin\Debug\pb17.pdb
+C:\Users\x\Documents\Set1\pb17\pb17\obj\Debug\pb17.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Set1\pb17\pb17\obj\Debug\pb17.exe
+C:\Users\x\Documents\Set1\pb17\pb17\obj\Debug\pb17.pdb
+C:\Users\x\Documents\Set1\pb17\pb17\obj\Debug\pb17.csprojAssemblyReference.cache

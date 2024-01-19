@@ -1,0 +1,7 @@
+C:\Users\x\Documents\Set1\pb19\pb19\bin\Debug\pb19.exe.config
+C:\Users\x\Documents\Set1\pb19\pb19\bin\Debug\pb19.exe
+C:\Users\x\Documents\Set1\pb19\pb19\bin\Debug\pb19.pdb
+C:\Users\x\Documents\Set1\pb19\pb19\obj\Debug\pb19.csprojAssemblyReference.cache
+C:\Users\x\Documents\Set1\pb19\pb19\obj\Debug\pb19.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Set1\pb19\pb19\obj\Debug\pb19.exe
+C:\Users\x\Documents\Set1\pb19\pb19\obj\Debug\pb19.pdb
