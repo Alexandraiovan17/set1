@@ -1,0 +1,7 @@
+C:\Users\x\Documents\Set1\pb20\pb20\bin\Debug\pb20.exe.config
+C:\Users\x\Documents\Set1\pb20\pb20\bin\Debug\pb20.exe
+C:\Users\x\Documents\Set1\pb20\pb20\bin\Debug\pb20.pdb
+C:\Users\x\Documents\Set1\pb20\pb20\obj\Debug\pb20.csprojAssemblyReference.cache
+C:\Users\x\Documents\Set1\pb20\pb20\obj\Debug\pb20.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Set1\pb20\pb20\obj\Debug\pb20.exe
+C:\Users\x\Documents\Set1\pb20\pb20\obj\Debug\pb20.pdb

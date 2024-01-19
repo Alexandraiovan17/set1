@@ -1,0 +1,7 @@
+C:\Users\x\Documents\Set1\pb21\pb21\bin\Debug\pb21.exe.config
+C:\Users\x\Documents\Set1\pb21\pb21\bin\Debug\pb21.exe
+C:\Users\x\Documents\Set1\pb21\pb21\bin\Debug\pb21.pdb
+C:\Users\x\Documents\Set1\pb21\pb21\obj\Debug\pb21.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Set1\pb21\pb21\obj\Debug\pb21.exe
+C:\Users\x\Documents\Set1\pb21\pb21\obj\Debug\pb21.pdb
+C:\Users\x\Documents\Set1\pb21\pb21\obj\Debug\pb21.csprojAssemblyReference.cache
